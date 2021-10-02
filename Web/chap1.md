@@ -30,7 +30,7 @@
 
 ## 1-2. 해결문제: HTML 기본 태그를 이용한 자유소프트웨어 설명 페이지 작성
 
-![image-20211002181943521](C:\Users\jylis\AppData\Roaming\Typora\typora-user-images\image-20211002181943521.png)
+![1](https://raw.githubusercontent.com/EveKristinLee/save_img/main/img/1.png)
 
 1. 제일 첫번째 줄에는 이 문서가 어떤 버전을 사용하는지에 대한 문서 정의 (대소문자의 구분은 없지만 대부분 DOCTYPE은 대문자)
 

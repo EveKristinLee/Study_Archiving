@@ -50,11 +50,9 @@
 
    
 
+## 1-3. 응용문제: 자기 소개 페이지 작성
 
+![2](https://raw.githubusercontent.com/EveKristinLee/save_img/main/img/2.png)
 
-## 	
-
-​	
-
-
+- html5에서는 div태그 대신 section이라는 태그가 존재. 하지만 div태그는 문서의 레이아웃을 잡을때 많이 사용하는 태그
 

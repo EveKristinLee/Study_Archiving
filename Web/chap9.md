@@ -2,9 +2,9 @@
 
 
 
-## 9-1. jQuery를 이용하여 이벤트 처리
+## 9-1. JQuery를 이용하여 이벤트 처리
 
-- #### jQuery
+- #### JQuery
 
   - HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 크로스 플랫폼의 자바스크립트 라이브러리
   
@@ -21,10 +21,10 @@
   
     
   
-- #### jQuery Syntax
+- #### JQuery Syntax
 
   - $(selector).action()
-    - $ : jQuery 정의 기호
+    - $ : JQuery 정의 기호
     - (selector) : HTML요소 찾기, css 선택자와 동일
     - action() : 선택된 요소에 수행될 행위
 
@@ -32,7 +32,7 @@
 
 - #### JQuery 이벤트 처리
 
-  ![20](../../사진/20.png)
+  ![20](https://raw.githubusercontent.com/EveKristinLee/save_img/main/img/20.png)
 
 
 
@@ -44,7 +44,7 @@
 
   
 
-- #### jQuery css
+- #### JQuery css
 
   - css값 가져오기  
     - .css("속성명")
@@ -56,5 +56,5 @@
 
 - ### HTML 요소
 
-  ![21](../../사진/21.png)
+  ![21](https://raw.githubusercontent.com/EveKristinLee/save_img/main/img/21.png)
 
